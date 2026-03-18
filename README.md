@@ -1,4 +1,7 @@
-# Dracula Theme
+# Better Darkula for VS Code
+
+## Description
+My custom theme based on the IntelliJ IDEA Darcula theme
 
 ## Contributing
 
